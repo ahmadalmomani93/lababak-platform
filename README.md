@@ -51,18 +51,6 @@ The system was designed with a focus on performance, scalability, responsive UI/
 
 ---
 
-## Screenshots
-
-> Add screenshots of:
->
-> * Home Page
-> * Dashboard
-> * Service Categories
-> * User Profile
-> * Request Workflow
-> * Mobile Responsive Design
-
----
 
 ## About the Project
 
