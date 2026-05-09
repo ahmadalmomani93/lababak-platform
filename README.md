@@ -70,11 +70,14 @@ The Lababak mobile application allows users to browse services, submit requests,
 ![Home Page](HOME.jpeg)
 
 
+### LOGIN Page
+![Login Page](LOGIN.jpeg)
+
 ### Services
 ![Services](SERVICE.jpeg)
 
 ### Mobile View
-![Mobile View](MOBILE.jpeg)
+![Mobile View](MOBIL.jpeg)
 
 ### User Profile
 ![User Profile](ACCOUNT.jpeg)
