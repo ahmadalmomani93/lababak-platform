@@ -2,55 +2,86 @@
 
 ## Overview
 
-Lababak is a scalable on-demand service marketplace platform developed using Oracle APEX and Oracle Database. The platform connects customers with service providers through a modern, secure, and user-friendly environment.
+Lababak is a scalable on-demand service marketplace platform developed using Oracle APEX and Oracle Database.
 
-The system was designed with a focus on performance, scalability, responsive UI/UX, and enterprise-level security practices.
+The platform connects customers with service providers through a modern, secure, and user-friendly environment, offering seamless service discovery, request management, and communication workflows.
+
+The system was designed with a strong focus on performance, scalability, responsive UI/UX, and enterprise-level security practices.
 
 ---
 
-## Live Demo
+## Live Platform
 
-🌐 [https://lababak.com](https://lababak.com)
+🌐 https://lababak.com
+
+---
+
+## Mobile Application
+
+📱 Available on Google Play Store
+
+The Lababak mobile application allows users to browse services, submit requests, communicate with providers, and manage their activities directly from mobile devices.
 
 ---
 
 ## Key Features
 
-* Multi-role authentication system
-* Service request management
-* Real-time communication workflows
-* Advanced service search and categorization
-* Interactive dashboards and reports
-* Responsive modern UI
-* Secure session management
-* REST API integration
-* Performance optimization and SQL tuning
+- Multi-role authentication system
+- Service request management
+- Real-time communication workflows
+- Advanced service search and categorization
+- Interactive dashboards and reports
+- Responsive modern UI/UX
+- Mobile-friendly experience
+- Secure session management
+- REST API integration
+- Performance optimization and SQL tuning
 
 ---
 
 ## Technologies Used
 
-* Oracle APEX
-* Oracle Database
-* SQL & PL/SQL
-* REST APIs
-* JavaScript
-* HTML5
-* CSS3
-* Oracle Cloud Infrastructure (OCI)
+- Oracle APEX
+- Oracle Database
+- SQL & PL/SQL
+- REST APIs
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+- Oracle Cloud Infrastructure (OCI)
 
 ---
 
 ## Architecture Highlights
 
-* Modular Oracle APEX application design
-* Optimized database schema and indexing strategies
-* PL/SQL business logic implementation
-* Secure authentication and authorization handling
-* High-performance query optimization
+- Modular Oracle APEX application architecture
+- Optimized database schema and indexing strategies
+- High-performance PL/SQL backend logic
+- Secure authentication and authorization handling
+- Query optimization and execution plan tuning
+- Scalable and maintainable enterprise structure
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](1.png)
+
+### Dashboard
+![Dashboard](2.png)
+
+### Services
+![Services](3.png)
+
+### Mobile View
+![Mobile View](4.png)
+
+### User Profile
+![User Profile](5.png)
+
+---
 
 ## About the Project
 
@@ -74,10 +105,12 @@ Ahmad Almomani
 
 Oracle APEX Developer
 
-* Oracle APEX
-* Oracle Database
-* SQL & PL/SQL
-* REST APIs
-* Performance Optimization
+### Expertise
+- Oracle APEX
+- Oracle Database
+- SQL & PL/SQL
+- REST APIs
+- Performance Optimization
+- Enterprise Application Development
 
-🌐 [https://lababak.com](https://lababak.com)
+🌐 https://lababak.com
